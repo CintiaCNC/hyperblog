@@ -1,2 +1,2 @@
 # hyperblog
-"Un blog increible para el curso de Git Hub platzi"
+"Un blog increible"
